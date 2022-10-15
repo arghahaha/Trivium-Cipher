@@ -1,0 +1,1 @@
+Trivium is a relatively new stream cipher, which uses an 80-bit key and 80 bit IV. It is based on a combination of three shift registers. Even though these are feedback shift registers, there are nonlinear components used to derive the output of each register, unlike the LFSRs that we studied in the class. 
